@@ -74,3 +74,6 @@ def iniciar():
 
 # Llamada inicial para arrancar el programa
 iniciar()
+
+
+programadora 1 haciendo su cambio
