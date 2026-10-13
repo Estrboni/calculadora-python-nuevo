@@ -15,7 +15,7 @@ Este proyecto es una calculadora básica desarrollada en Python que permite real
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Estrboni/Calculadora-Python.git
+   https://github.com/Estrboni/calculadora-python-nuevo.git
    ```
 
 ---
