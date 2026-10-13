@@ -46,6 +46,7 @@ def dividir(a, b):
 ```
 
 ---
+#programador 2 jose 
 
 ## 💻 Lógica Principal y Salida de Datos (Programadores 2 y 3)
 
@@ -74,3 +75,5 @@ def iniciar():
 
 # Llamada inicial para arrancar el programa
 iniciar()
+
+
