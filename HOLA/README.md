@@ -46,7 +46,7 @@ def dividir(a, b):
 ```
 
 ---
-#programador 2 jose 
+#Programador 2 Jose C.  y Programador 3 Jose H.
 
 ## 💻 Lógica Principal y Salida de Datos (Programadores 2 y 3)
 

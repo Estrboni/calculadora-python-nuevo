@@ -12,6 +12,7 @@ def dividir(a, b):
     return a / b
 
 # Programador2 (Logica principal) junto a Programador3-salida de datos
+"""Adicionalmente, cabe recalcar que esta en si es la funciòn principal"""
 def iniciar():
     print("\n--- Bienvenido a la MultiCalculadora ---")
     
